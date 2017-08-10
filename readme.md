@@ -242,9 +242,7 @@ module.exports = {
 - @angular/forms  表单模块
 - @angular/http  网络模块
 > 应用模块
-
-
-
+![看这里](https://github.com/STsongze/Angular/blob/master/jia.png)
 ---
 > 知识点也总结完了，接下来就看看效果吧：
 ![看这里](https://github.com/STsongze/Angular/blob/master/xiaoguo.gif)
