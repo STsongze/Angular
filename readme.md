@@ -247,3 +247,4 @@ module.exports = {
 
 ---
 > 知识点也总结完了，接下来就看看效果吧：
+![看这里](https://github.com/STsongze/Angular/blob/master/xiaoguo.gif)
